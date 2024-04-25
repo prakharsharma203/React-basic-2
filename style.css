@@ -1,0 +1,28 @@
+.box{
+    width: 650px;
+    margin: 0 auto;
+
+}
+
+.heading{
+    font-size: 40px;
+}
+.para{
+    font-size: 18px;
+}
+
+.term{
+    margin-top: 20px;
+    
+}
+
+.link{
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.content{
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
